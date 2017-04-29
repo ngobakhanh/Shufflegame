@@ -1,0 +1,30 @@
+D:\Khanh\NIIT semester 2\BT C#\Game\Game\Game\bin\Debug\Game.exe.config
+D:\Khanh\NIIT semester 2\BT C#\Game\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Khanh\NIIT semester 2\BT C#\Game\Game\Game\bin\Debug\Game.exe
+D:\Khanh\NIIT semester 2\BT C#\Game\Game\Game\bin\Debug\Game.pdb
+D:\Khanh\NIIT semester 2\BT C#\Game\Game\Game\obj\Debug\Game.exe
+D:\Khanh\NIIT semester 2\BT C#\Game\Game\Game\obj\Debug\Game.pdb
+D:\Khanh\NIIT semester 2\BT C#\ProJect\Game\Game\bin\Debug\Game.exe.config
+D:\Khanh\NIIT semester 2\BT C#\ProJect\Game\Game\obj\Debug\Game.exe
+D:\Khanh\NIIT semester 2\BT C#\ProJect\Game\Game\obj\Debug\Game.pdb
+D:\Khanh\NIIT semester 2\BT C#\ProJect\Game\Game\bin\Debug\Game.exe
+D:\Khanh\NIIT semester 2\BT C#\ProJect\Game\Game\bin\Debug\Game.pdb
+D:\Khanh\NIIT semester 2\BT C#\ProJect\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+D:\Khanh\NIIT semester 2\Project\Pro1\Game\Game\bin\Debug\Game.exe.config
+D:\Khanh\NIIT semester 2\Project\Pro1\Game\Game\obj\Debug\Game.exe
+D:\Khanh\NIIT semester 2\Project\Pro1\Game\Game\obj\Debug\Game.pdb
+D:\Khanh\NIIT semester 2\Project\Pro1\Game\Game\bin\Debug\Game.exe
+D:\Khanh\NIIT semester 2\Project\Pro1\Game\Game\bin\Debug\Game.pdb
+D:\Khanh\NIIT semester 2\Project\Pro1\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Khanh\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\bin\Debug\Game.exe.config
+C:\Users\Khanh\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\obj\Debug\Game.exe
+C:\Users\Khanh\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\obj\Debug\Game.pdb
+C:\Users\Khanh\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\bin\Debug\Game.exe
+C:\Users\Khanh\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\bin\Debug\Game.pdb
+C:\Users\Khanh\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\bin\Debug\Game.exe.config
+C:\Users\Administrator\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\obj\Debug\Game.exe
+C:\Users\Administrator\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\obj\Debug\Game.pdb
+C:\Users\Administrator\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\bin\Debug\Game.exe
+C:\Users\Administrator\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\bin\Debug\Game.pdb
+C:\Users\Administrator\Google Drive\NIIT semester 2\OPP\Project\Pro1\Shufflegame\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
